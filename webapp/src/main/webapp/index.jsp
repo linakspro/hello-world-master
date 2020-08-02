@@ -1,2 +1,2 @@
-<h1> Welcome to  IT LAND </h1>
-<h2> Have a great day ....!!! </h2>
+<h1> IT LAND </h1>
+<h2> It is a great place to learn </h2>
